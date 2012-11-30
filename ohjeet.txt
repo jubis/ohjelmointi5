@@ -1,0 +1,10 @@
+﻿Miinaharavan ohjeet\n
+\n
+Miinaharavassa on tarkoitus avata kaikki pelin ruudut avaamatta yhtään miinaa. Avaaminen tapahtuu hiiren vasemmalla painikkeella.\n
+Pelaamista voi helpottaa merkitsemällä lipulla kaikki ne ruudut, joiden luulee olevan miinoja. Liputtaminen tapahtuu hiiren oikealla painikkeella.\n 
+\n
+Voitat pelin, kun olet avannut kaikki miinattomat ruudut. Tällöin kaikki miinat liputetaan ja pelaajan asettamat liput näytetään vihreällä taustavärillä.\n
+Häviät pelin, jos avaat yhdenkin miinallisen ruudun. Tällöin avattu ruutu muuttuu punaiseksi ja kaikki miinat paljastetaan. Myös lippujen oikeellisuus kerrotaan: oikea lippu on vihreällä pohjalla ja väärä keltaisella.\n
+\n
+Ikkunan alalaidassa näet koko ajan liputtamattomien miinojen määrän. Ota huomioon, että myös väärät liputukset vähentävät tätä laskuria.\n
+\n
