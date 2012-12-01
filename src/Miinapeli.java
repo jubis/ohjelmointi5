@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButtonMenuItem;
 import javax.swing.SwingUtilities;
 
-//TODO: ajastin, setFont on resize, miinan todennäköisyys
+//TODO: ajastin, setFont on resize, miinan todennäköisyys, javadoc
 asd
 
 @SuppressWarnings("serial")
